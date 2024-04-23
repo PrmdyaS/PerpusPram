@@ -1,4 +1,4 @@
-# perpus_pram
+# PerpusPram
 
 Aplikasi perpustakaan untuk project UKK saya di SMK Negeri 5 Surakarta.
 
